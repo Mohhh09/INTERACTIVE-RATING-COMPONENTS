@@ -1,0 +1,8 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+}
+.content{
+    background-color: hsl(213, 19%, 18%);
+    color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+}
